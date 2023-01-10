@@ -15,7 +15,7 @@
  * Ej.: para obtener cotizaciones de todo el mes http://ip_servidor/HistoricoCotizacionesSETParaguay.class.php?anio=2022&mes=05
  * Ej.: para obtener cotizaciones de un dia en especifico http://ip_servidor/HistoricoCotizacionesSETParaguay.class.php?anio=2022&mes=05&dia=07
  * Ej.: para obtener cotizaciones de un dia en especifico (No importa el Orden de los parametros) http://ip_servidor/HistoricoCotizacionesSETParaguay.class.php?dia=04&mes=06&anio=2022
- * Ej.: modo de uso desde php:  $json =  file_get_contents('http://ip_servidor/HistoricoCotizacionesSETParaguay.class.php?mes=05&anio=2022'); 
+ * Ej.: modo de uso desde php:  $json =  file_get_contents('http://ip_servidor/HistoricoCotizacionesSETParaguay.class.php?mes=05&anio=2022');        
  * 
  * Ej. acceso a los datos:
  * data["dia"].dolar.compra
