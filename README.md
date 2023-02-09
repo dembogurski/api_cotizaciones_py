@@ -14,3 +14,5 @@ Ej.:
   echo $data["01"]['dolar']['compra'];
 
 ?>
+
+
